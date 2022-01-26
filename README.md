@@ -1,3 +1,4 @@
 # CSC-2463
-Assignments
-"C:\Users\carla\OneDrive\Documents\CSC 2463 Assignments\CSC_Assignment_1_Elson.zip"
+## Assignments
+[Drawing Assignment 1](https://kittenpats.github.io/CSC-2463/CSC_Assignment_1_2022_01_25_22_50_22/)
+
