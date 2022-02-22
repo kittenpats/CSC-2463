@@ -6,4 +6,6 @@
 
 [Sprite Walkers Assignment 3](https://kittenpats.github.io/CSC-2463/Sprite_Walkers_HW3_2022_02_08_04_43_28/)
 
-[Bug Squish Assignment 3](https://kittenpats.github.io/CSC-2463/Bug_Squish_HW4_2022_02_16_01_06_42/)
+[Bug Squish Assignment 4](https://kittenpats.github.io/CSC-2463/Bug_Squish_HW4_2022_02_16_01_06_42/)
+
+[Sampler Assignment 5](https://kittenpats.github.io/CSC-2463/Sampler_HW6_Elson/)
