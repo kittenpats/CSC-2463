@@ -9,3 +9,5 @@
 [Bug Squish Assignment 4](https://kittenpats.github.io/CSC-2463/Bug_Squish_HW4_2022_02_16_01_06_42/)
 
 [Sampler Assignment 5](https://kittenpats.github.io/CSC-2463/Sampler_HW6_Elson/)
+
+[Serial Communication](https;//kittenpats.github.io/CSC-2463/Serial_Communication_3.3/)
