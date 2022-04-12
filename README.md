@@ -10,4 +10,4 @@
 
 [Sampler Assignment 5](https://kittenpats.github.io/CSC-2463/Sampler_HW6_Elson/)
 
-[Serial Communication](https;//kittenpats.github.io/CSC-2463/Serial_Communication_3.3/)
+[Serial Communication](https://kittenpats.github.io/CSC-2463/Serial_Communication_3.3/)
